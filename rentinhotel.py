@@ -1,0 +1,1 @@
+month_count= int(input("Enter the"))
